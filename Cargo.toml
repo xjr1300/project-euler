@@ -7,4 +7,8 @@ edition = "2021"
 name = "problem_001"
 src = "src/problem_001.rs"
 
+[[bin]]
+name = "problem_002"
+src = "src/problem_002.rs"
+
 [dependencies]
