@@ -33,7 +33,7 @@ fn is_palindrome(num: i32) -> bool {
 }
 
 fn main() {
-    let mut largest = std::i32::MIN;
+    let mut largest = i32::MIN;
 
     for m in 100..1000 {
         for n in 100..1000 {
