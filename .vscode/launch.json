@@ -7,15 +7,15 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug Problem 21",
+            "name": "Debug Problem 22",
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=problem_021",
+                    "--bin=problem_022",
                     "--package=project-euler"
                 ],
                 "filter": {
-                    "name": "problem_021",
+                    "name": "problem_022",
                     "kind": "bin"
                 }
             },
